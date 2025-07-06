@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Software Engineer in the financial services industry with a strong focus on quality, ownership, and continuous improvement. Delivered in high-impact regulatory reporting teams, led releases early in my career, and earned recognition for exceptional technical capability, high-quality work, and team contribution. Currently part of an internal career development programme to grow into future leadership.
+I'm Kimberly, a Software Engineer in the financial services industry with a strong focus on quality, ownership, and continuous improvement. Delivered in high-impact regulatory reporting teams, led releases early in my career, and earned recognition for exceptional technical capability, high-quality work, and team contribution. Currently part of an internal career development programme to grow into future leadership.
 
 * 📍 Based in London, UK
 * 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/kim-d/)
