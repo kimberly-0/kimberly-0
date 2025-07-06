@@ -9,10 +9,10 @@ I'm a Software Engineer in the financial services industry with a strong focus o
 ## Achievements 
 
 * 🏆 **Excellence Award** for exceptional technical delivery (2024)
-* 🏅 **Winner** of the Sustainable Development Challenge at #1AHack4SUSTAINABILITY **Amadeus hackathon** with 600 participants across 9 different challenges - React, Figma, Green IT (2022) -> [repo](https://github.com/nicopicchio/flylight) | [presentation](https://www.linkedin.com/posts/activity-6987752135991951360-FK0R?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy2T2QBCVG5xT-s6PGfursW1MUU2IrXrG0)
-* 🌱 **Online events rep** in the Graduate Working Party (2024) - organised and hosted online events & built SharePoint overview of internal networks
-* ⛰️ **Raised £3,368 for homelessness charity Crisis** - by hiking Mount Toubkal in Morocco (2024)
-* 🗞️ Developed an Electron and React desktop app to automate a text formatting process in my family's newspaper company - which helped increase efficiency and save time (2023) -> [repo](https://github.com/kimberly-0/electron-reactjs-text-formatter)
+* 🏅 **Winner** of the Sustainable Development Challenge at #1AHack4SUSTAINABILITY **Amadeus hackathon** with 600 participants (2022) -> [repo](https://github.com/nicopicchio/flylight) | [presentation](https://www.linkedin.com/posts/activity-6987752135991951360-FK0R?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy2T2QBCVG5xT-s6PGfursW1MUU2IrXrG0)
+* 🌱 **Online events rep** in the Graduate Working Party (2024)
+* ⛰️ **Raised £3,368** for homelessness charity Crisis (2024)
+* 🗞️ Developed an Electron & React desktop app to automate text formatting in my family's newspaper company (2023) -> [repo](https://github.com/kimberly-0/electron-reactjs-text-formatter)
 * ⭐️ Awarded “**Best Final Major Project**” of the year on Technical Secondary Education level (2015)
 
 ## Professional Experience
