@@ -18,16 +18,8 @@ I'm Kimberly, a Software Engineer in the financial services industry with a stro
 ## Professional Experience
 
 * 🗃️ **SQL Server Developer** (Technology Engineering Graduate) | Jan 2025 - Present
-
-  * Microsoft SQL Server, SSRS, SSIS, T-SQL, BIML, C#
-
 * ☁️ **Software/Data Engineer** (Technology Engineering Graduate) | Sept 2023 - Jan 2025
-
-  * Maven, Java, Scala, Spark, Kafka, GCP (BigQuery, Spanner, Kubernetes Engine), Jenkins, Helm, Docker, Spinnaker, Dynatrace, Python
-
 * 🌐 **Web Development Intern** | Jan 2018 - Apr 2018
-
-  * WordPress, custom WP post types, session handling, custom routing, form validation, pattern libraries, Kanban, Git version control, pair programming, SOLID principles
 
 ## Education 
 
