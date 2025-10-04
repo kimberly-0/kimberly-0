@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Kimberly, a Software Engineer in the financial services industry with a strong focus on quality, ownership, and continuous improvement. Delivered in high-impact regulatory reporting teams, led releases early in my career, and earned recognition for exceptional technical capability, high-quality work, and team contribution. Currently part of an internal career development programme to grow into future leadership.
+I'm Kim, a Software Engineer with expertise in regulatory reporting and financial services technology. Experienced in leading production releases, improving code quality, and driving team-wide improvements. Recognised for exceptional technical delivery and contribution, and selected for the Elevate 2025 programme to accelerate progression into leadership.
 
 * 📍 Based in London, UK
 * 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/kim-d/)
@@ -8,24 +8,26 @@ I'm Kimberly, a Software Engineer in the financial services industry with a stro
 
 ## Achievements 
 
-* 🏆 **Excellence Award** for exceptional technical delivery (2024)
+* 🏆 **Excellence Group Performance Share Award** for "demonstrating exceptional technical capability, learning very quickly, and producing high-quality work at an excellent work rate” (2024)
+* 🚀 **Elevate 2025 Participant** - selected for a 9-month internal career development programme to accelerate progression into leadership (2025)
 * 🏅 **Winner** of the Sustainable Development Challenge at #1AHack4SUSTAINABILITY **Amadeus hackathon** with 600 participants (2022) -> [repo](https://github.com/nicopicchio/flylight) | [presentation](https://www.linkedin.com/posts/activity-6987752135991951360-FK0R?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy2T2QBCVG5xT-s6PGfursW1MUU2IrXrG0)
-* 🌱 **Online events rep** in the Graduate Working Party (2024)
 * ⛰️ **Raised £3,368** for homelessness charity Crisis (2024)
-* 🗞️ Developed an Electron & React desktop app to automate text formatting in my family's newspaper company (2023) -> [repo](https://github.com/kimberly-0/electron-reactjs-text-formatter)
+* 🗞️ Developed an Electron & React desktop app to semi-automate text formatting in my family's newspaper company (2023) -> [repo](https://github.com/kimberly-0/electron-reactjs-text-formatter)
 * ⭐️ Awarded “**Best Final Major Project**” of the year on Technical Secondary Education level (2015)
 
 ## Professional Experience
 
-* 🗃️ **SQL Server Developer** (Technology Engineering Graduate) | Jan 2025 - Present
-* ☁️ **Software/Data Engineer** (Technology Engineering Graduate) | Sept 2023 - Jan 2025
+* 🗃️ **Software Engineer** (SQL Server) | Jan 2025 - Present
+* ☁️ **Software/Data Engineer** (Distributed Data Processing in Google Cloud Platform) | Sept 2023 - Jan 2025
+* 🌐 **Part-Time Freelance Design & Web and App Development** | 2013 - 2023
 * 🌐 **Web Development Intern** | Jan 2018 - Apr 2018
+* 🌐 **Digital Marketing & Web Development Intern** | Jan 2018 - Apr 2018
 
 ## Education 
 
-* 🎓 MSc in Computer Science 
-* 📈 MSc in Business with Marketing Management
-* 🎨 Bachelor's in Graphical and Digital Media: Cross-media Design
+* 🎓 MSc in Computer Science - Distinction
+* 📈 MSc in Business with Marketing Management - Commendation
+* 🎨 Bachelor's in Graphical and Digital Media: Cross-media Design - Cum Laude
 
 ## Languages, Tools & Technologies
 
