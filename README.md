@@ -11,7 +11,7 @@ I'm Kim, a Software Engineer with expertise in regulatory reporting and financia
 * 🏆 **Excellence Group Performance Share Award** for "demonstrating exceptional technical capability, learning very quickly, and producing high-quality work at an excellent work rate” (2024)
 * 🚀 **Elevate 2025 Participant** - selected for a 9-month internal career development programme to accelerate progression into leadership (2025)
 * 🏅 **Winner** of the Sustainable Development Challenge at #1AHack4SUSTAINABILITY **Amadeus hackathon** with 600 participants (2022) -> [repo](https://github.com/nicopicchio/flylight) | [presentation](https://www.linkedin.com/posts/activity-6987752135991951360-FK0R?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy2T2QBCVG5xT-s6PGfursW1MUU2IrXrG0)
-* ⛰️ **Raised £3,368** for homelessness charity Crisis (2024)
+* ⛰️ **Raised £3,368** for homelessness charity Crisis by hiking Mount Toubkal in Morocco (2024)
 * 🗞️ Developed an Electron & React desktop app to semi-automate text formatting in my family's newspaper company (2023) -> [repo](https://github.com/kimberly-0/electron-reactjs-text-formatter)
 * ⭐️ Awarded “**Best Final Major Project**” of the year on Technical Secondary Education level (2015)
 
@@ -50,17 +50,7 @@ Here are some of the tools and technologies I've worked with across backend, fro
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </div>
 
-### 🗃️ Databases & Microsoft Tech
-
-<div>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/BIML-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
-### ☁️ Google Cloud & Tools
+### ☁️ Cloud
 
 <div>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -85,14 +75,25 @@ Here are some of the tools and technologies I've worked with across backend, fro
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 </div>
 
+### 🗃️ Databases
+
+<div>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/BIML-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
 ## Fun Facts
 
-* 🔒 Experienced escaper (escape room enthusiast)
-* 📖 Enjoy reading non-fiction books
+* 🔒 Experienced escaper (escape room enthusiast & passion for problem solving)
+* 📖 Enjoy reading non-fiction books & investing in self-development
+* 🏋️‍♀️ Challenging myself through weight-lifting and running
+* 🚀 Enjoy travelling and discovering new places & cultures
+* 🌱 Care for nature and our planet
 * 🤍 Light theme code editor
 * 🐶 Love dogs and horses
-* 🌱 Care for nature and our planet
-* 🚀 Enjoy travelling and discovering new places
 
 <br />
 
