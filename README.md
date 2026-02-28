@@ -8,9 +8,9 @@ I'm Kim, a Software Engineer with expertise in regulatory reporting and financia
 
 ## Achievements 
 
-* 🏆 **Excellence Group Performance Share Award** for "demonstrating exceptional technical capability, learning very quickly, and producing high-quality work at an excellent work rate” (2024)
-* 🚀 **Elevate 2025 Participant** - selected for a 9-month internal career development programme to accelerate progression into leadership (2025)
-* 🏅 **Winner** of the Sustainable Development Challenge at #1AHack4SUSTAINABILITY **Amadeus hackathon** with 600 participants (2022) -> [repo](https://github.com/nicopicchio/flylight) | [presentation](https://www.linkedin.com/posts/activity-6987752135991951360-FK0R?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy2T2QBCVG5xT-s6PGfursW1MUU2IrXrG0)
+* 🏆 **Two-time Excellence GPS Award recipient** for consistently exceeding expectations, recognised for exceptional technical capability, rapid learning, and sustained high-quality delivery (2024 & 2025)
+* 🚀 **Selected for Elevate 2025** - a 9-month internal career development programme for women in tech to accelerate progression into leadership (approx. 50 selected from hundreds of applicants)
+* 🏅 **Hackathon Winner**, Sustainable Development Challenge - Amadeus Global Hackathon with 600 participants across 9 challenges (2022) -> [repo](https://github.com/nicopicchio/flylight) | [presentation](https://www.linkedin.com/posts/activity-6987752135991951360-FK0R?utm_source=share&utm_medium=member_desktop&rcm=ACoAABy2T2QBCVG5xT-s6PGfursW1MUU2IrXrG0)
 * ⛰️ **Raised £3,368** for homelessness charity Crisis by hiking Mount Toubkal in Morocco (2024)
 * 🗞️ Developed an Electron & React desktop app to semi-automate text formatting in my family's newspaper company (2023) -> [repo](https://github.com/kimberly-0/electron-reactjs-text-formatter)
 * ⭐️ Awarded “**Best Final Major Project**” of the year on Technical Secondary Education level (2015)
